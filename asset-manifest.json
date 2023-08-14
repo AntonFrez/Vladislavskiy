@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Vladislavskiy/static/css/main.6ba7d4aa.css",
+    "main.js": "/Vladislavskiy/static/js/main.db52e662.js",
+    "static/media/gifBanner.gif": "/Vladislavskiy/static/media/gifBanner.6b20de305f499c0a6f70.gif",
+    "static/media/marvel.jpg": "/Vladislavskiy/static/media/marvel.6bd46eb2eb36be060617.jpg",
+    "static/media/pokemon.jpg": "/Vladislavskiy/static/media/pokemon.dc4b8cb9ef1bbbf31193.jpg",
+    "static/media/rusbitech.jpg": "/Vladislavskiy/static/media/rusbitech.f71374365c7e822c6d9e.jpg",
+    "static/media/kameleoon.jpg": "/Vladislavskiy/static/media/kameleoon.132b5cd4eb2f18a665e0.jpg",
+    "static/media/sushi.jpg": "/Vladislavskiy/static/media/sushi.b068dd7cf35b73312bf5.jpg",
+    "static/media/icons8-react-native.svg": "/Vladislavskiy/static/media/icons8-react-native.809ef0b8ddf223919d0e0d7d3882d8cc.svg",
+    "static/media/icons8-nodejs.svg": "/Vladislavskiy/static/media/icons8-nodejs.1ad79cee91b00978c1405c4f50a3188a.svg",
+    "static/media/icons8-sass.svg": "/Vladislavskiy/static/media/icons8-sass.e791db0c8c157737fcff2310c1b4c2e3.svg",
+    "static/media/github.svg": "/Vladislavskiy/static/media/github.1c563d2ed9430ea5d69020221d8c71e7.svg",
+    "static/media/icons8-git.svg": "/Vladislavskiy/static/media/icons8-git.279e83a61ab2d7377dde2d6e88f9ecfe.svg",
+    "static/media/bootstrap.svg": "/Vladislavskiy/static/media/bootstrap.ebc3184d744216ed4a560a54eae5df8c.svg",
+    "static/media/icons8-javascript.svg": "/Vladislavskiy/static/media/icons8-javascript.69e1351becd28fc5c91983e212321477.svg",
+    "index.html": "/Vladislavskiy/index.html",
+    "static/media/icons8-html-5.svg": "/Vladislavskiy/static/media/icons8-html-5.455123bb02ca6b48b36afa5ff7b57853.svg",
+    "static/media/bem.svg": "/Vladislavskiy/static/media/bem.951a1b0c64ff97dc060485cefcde4110.svg",
+    "static/media/css3-svgrepo-com.svg": "/Vladislavskiy/static/media/css3-svgrepo-com.43e75d9d74022623f61dcfac834bbdb5.svg",
+    "static/media/email.svg": "/Vladislavskiy/static/media/email.edc5dd1868961a2dda938b26a258063b.svg",
+    "main.6ba7d4aa.css.map": "/Vladislavskiy/static/css/main.6ba7d4aa.css.map",
+    "main.db52e662.js.map": "/Vladislavskiy/static/js/main.db52e662.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ba7d4aa.css",
+    "static/js/main.db52e662.js"
+  ]
+}
