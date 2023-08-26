@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/Vladislavskiy/static/css/main.6ba7d4aa.css",
+    "main.css": "/Vladislavskiy/static/css/main.10c4f659.css",
     "main.js": "/Vladislavskiy/static/js/main.db52e662.js",
     "static/media/gifBanner.gif": "/Vladislavskiy/static/media/gifBanner.6b20de305f499c0a6f70.gif",
     "static/media/marvel.jpg": "/Vladislavskiy/static/media/marvel.6bd46eb2eb36be060617.jpg",
+    "static/media/bannerGif.gif": "/Vladislavskiy/static/media/bannerGif.c921b1f880eca1e42df7.gif",
     "static/media/pokemon.jpg": "/Vladislavskiy/static/media/pokemon.dc4b8cb9ef1bbbf31193.jpg",
     "static/media/rusbitech.jpg": "/Vladislavskiy/static/media/rusbitech.f71374365c7e822c6d9e.jpg",
     "static/media/kameleoon.jpg": "/Vladislavskiy/static/media/kameleoon.132b5cd4eb2f18a665e0.jpg",
@@ -20,11 +21,11 @@
     "static/media/bem.svg": "/Vladislavskiy/static/media/bem.951a1b0c64ff97dc060485cefcde4110.svg",
     "static/media/css3-svgrepo-com.svg": "/Vladislavskiy/static/media/css3-svgrepo-com.43e75d9d74022623f61dcfac834bbdb5.svg",
     "static/media/email.svg": "/Vladislavskiy/static/media/email.edc5dd1868961a2dda938b26a258063b.svg",
-    "main.6ba7d4aa.css.map": "/Vladislavskiy/static/css/main.6ba7d4aa.css.map",
+    "main.10c4f659.css.map": "/Vladislavskiy/static/css/main.10c4f659.css.map",
     "main.db52e662.js.map": "/Vladislavskiy/static/js/main.db52e662.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ba7d4aa.css",
+    "static/css/main.10c4f659.css",
     "static/js/main.db52e662.js"
   ]
 }
