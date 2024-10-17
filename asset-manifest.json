@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Vladislavskiy/static/css/main.d33aba30.css",
-    "main.js": "/Vladislavskiy/static/js/main.ec2128c7.js",
+    "main.css": "/Vladislavskiy/static/css/main.4aa57052.css",
+    "main.js": "/Vladislavskiy/static/js/main.ac0fa562.js",
     "static/media/marvel.jpg": "/Vladislavskiy/static/media/marvel.6bd46eb2eb36be060617.jpg",
-    "static/media/bannerStreet.gif": "/Vladislavskiy/static/media/bannerStreet.9cfa73608d8b3a0b84d4.gif",
     "static/media/walk-anime.gif": "/Vladislavskiy/static/media/walk-anime.32145dd097feb6108497.gif",
+    "static/media/pixel-art-urban.gif": "/Vladislavskiy/static/media/pixel-art-urban.6817fac1ee4900fcb362.gif",
     "static/media/pokemon.jpg": "/Vladislavskiy/static/media/pokemon.dc4b8cb9ef1bbbf31193.jpg",
     "static/media/rusbitech.jpg": "/Vladislavskiy/static/media/rusbitech.f71374365c7e822c6d9e.jpg",
     "static/media/kameleoon.jpg": "/Vladislavskiy/static/media/kameleoon.132b5cd4eb2f18a665e0.jpg",
@@ -22,11 +22,11 @@
     "static/media/bem.svg": "/Vladislavskiy/static/media/bem.951a1b0c64ff97dc060485cefcde4110.svg",
     "static/media/css3-svgrepo-com.svg": "/Vladislavskiy/static/media/css3-svgrepo-com.43e75d9d74022623f61dcfac834bbdb5.svg",
     "static/media/email.svg": "/Vladislavskiy/static/media/email.edc5dd1868961a2dda938b26a258063b.svg",
-    "main.d33aba30.css.map": "/Vladislavskiy/static/css/main.d33aba30.css.map",
-    "main.ec2128c7.js.map": "/Vladislavskiy/static/js/main.ec2128c7.js.map"
+    "main.4aa57052.css.map": "/Vladislavskiy/static/css/main.4aa57052.css.map",
+    "main.ac0fa562.js.map": "/Vladislavskiy/static/js/main.ac0fa562.js.map"
   },
   "entrypoints": [
-    "static/css/main.d33aba30.css",
-    "static/js/main.ec2128c7.js"
+    "static/css/main.4aa57052.css",
+    "static/js/main.ac0fa562.js"
   ]
 }
