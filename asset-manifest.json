@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Vladislavskiy/static/css/main.2c3b28b8.css",
+    "main.css": "/Vladislavskiy/static/css/main.d33aba30.css",
     "main.js": "/Vladislavskiy/static/js/main.221b5a44.js",
     "static/media/marvel.jpg": "/Vladislavskiy/static/media/marvel.6bd46eb2eb36be060617.jpg",
     "static/media/bannerStreet.gif": "/Vladislavskiy/static/media/bannerStreet.9cfa73608d8b3a0b84d4.gif",
@@ -22,11 +22,11 @@
     "static/media/bem.svg": "/Vladislavskiy/static/media/bem.951a1b0c64ff97dc060485cefcde4110.svg",
     "static/media/css3-svgrepo-com.svg": "/Vladislavskiy/static/media/css3-svgrepo-com.43e75d9d74022623f61dcfac834bbdb5.svg",
     "static/media/email.svg": "/Vladislavskiy/static/media/email.edc5dd1868961a2dda938b26a258063b.svg",
-    "main.2c3b28b8.css.map": "/Vladislavskiy/static/css/main.2c3b28b8.css.map",
+    "main.d33aba30.css.map": "/Vladislavskiy/static/css/main.d33aba30.css.map",
     "main.221b5a44.js.map": "/Vladislavskiy/static/js/main.221b5a44.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c3b28b8.css",
+    "static/css/main.d33aba30.css",
     "static/js/main.221b5a44.js"
   ]
 }
